@@ -1,0 +1,6 @@
+dsm5_severity,dsm5_severity_enc
+Mild depression,0
+Moderate depression,1
+Moderately severe depression,2
+No depression,3
+Severe depression,4

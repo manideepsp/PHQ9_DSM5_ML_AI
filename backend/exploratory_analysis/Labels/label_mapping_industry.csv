@@ -1,0 +1,15 @@
+industry,industry_enc
+Arts & Entertainment,0
+Construction,1
+Education,2
+Energy & Utilities,3
+Finance,4
+Government,5
+Healthcare,6
+Hospitality,7
+Information Technology,8
+Legal,9
+Manufacturing,10
+Other,11
+Retail,12
+Transportation & Logistics,13
