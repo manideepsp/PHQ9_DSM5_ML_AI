@@ -1,0 +1,14 @@
+# Ignore all CSV files in specific folders
+/backend_old/exploratory_analysis/ProcessedData/*.csv
+/backend_old/exploratory_analysis/Correlations/*.csv
+
+# Optional: Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Optional: Ignore virtual environment
+backend.venv/
+.venv/
+
+# Optional: Ignore environment files
+.env
