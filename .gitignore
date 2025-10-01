@@ -1,4 +1,5 @@
 # Ignore all CSV files in specific folders
+tools/errors.log
 /backend_old/exploratory_analysis/ProcessedData/*.csv
 /backend_old/exploratory_analysis/Correlations/*.csv
 
